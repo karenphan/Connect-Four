@@ -1,8 +1,3 @@
-# connectfour.py
-#
-# ICS 32 Section A/A1 Summer 2019
-# Project #3: Connect Four ala Alex Thornton
-
 '''
 This module contains the game logic that underlies a Connect Four
 game, implementing such functionality as tracking the state of a game,
