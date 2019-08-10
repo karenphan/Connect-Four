@@ -1,6 +1,6 @@
 # Connect-Four
 This is a two-player game in which you win by having four connecting circles.
-The standard board is 7 x 6. And the standard color for player 1 is red and yellow for player2.
+The standard board is 7 x 6 and the standard color for player 1 is red and yellow for player 2.
 You can choose to change the column and row number, as well as the color for each player.
 After the board size and color are confirmed, the program prompts the player to make a move, drop or pop.
 You can LEFT click to drop, and RIGHT click to pop.
